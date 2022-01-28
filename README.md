@@ -26,9 +26,9 @@ Writing this down for my own future reference.
 
 ### My workflow
 
-- Use [`MediaRecorder` API](https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder) to generate webm video
-- Use [Handbrake](https://handbrake.fr) to convert webm video into any video
-- Use [Gifski](https://gif.ski) to convert the videos to GIFs
+- Use [`MediaRecorder` API](https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder) to generate webm video.
+- Use [Handbrake](https://handbrake.fr) to convert webm video into any video.
+- Use [Gifski](https://gif.ski) to convert the videos to GIFs.
 
 ### The Code
 
