@@ -5,11 +5,16 @@
   Record p5 sketches into webm.
 </p>
 
+<p align="center">
+  <img src="./loop.gif" width="200 height="200 />
+</p>
+
 ### Try it out
 
-- Double click `index.html`.
+- Go to [demo](https://p5-mediarecorder.netlify.app)
+  - _Alternatively, clone this repo and double click `index.html`._
 - Click anywhere on the canvas.
-- Wait 5 seconds to download `test.webm`.
+- Wait one loop to download `test.webm`.
 
 ### The problem
 
@@ -86,5 +91,3 @@ function exportVid(blob) {
   window.URL.revokeObjectURL(url)
 }
 ```
-
-![loop](./loop.gif)
