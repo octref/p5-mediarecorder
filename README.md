@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="./loop.gif" width="200 height="200 />
+  <a href="https://p5-mediarecorder.netlify.app"><img src="./loop.gif" width="200 height="200 /></a>
 </p>
 
 ### Try it out
